@@ -1,0 +1,11 @@
+d39d916dd36161e171fa91b78a25d443  qt-vsaddin-msvc2019-x86-3.2.0-rev.38.vsix
+a9016f53efe5002a46cf21cf49cd74be  qt-vsaddin-msvc2019-x86-3.2.0-rev.43.vsix
+d2480b930b2b7f91630288b8595c0b4e  qt-vsaddin-msvc2019-x86-3.2.0-rev.47.vsix
+5658b57c24f909fe29ad1ddbd7bf45c0  qt-vsaddin-msvc2022-arm64-3.2.0-rev.39.vsix
+5580aa2ebb2a117162242180440c827e  qt-vsaddin-msvc2022-arm64-3.2.0-rev.47.vsix
+b297ea9ba69552c14a868764288c8df8  qt-vsaddin-msvc2022-x64-3.2.0-rev.38.vsix
+531b1dac8d5dd2c8087a52abc5cfd927  qt-vsaddin-msvc2022-x64-3.2.0-rev.43.vsix
+5477c6863948323f2007dc54bb5dab69  qt-vsaddin-msvc2022-x64-3.2.0-rev.47.vsix
+a01edfdb7255f236ff0fdfb9a72bb50f  qt-vsaddin-msbuild-3.2.0-rev.38.zip
+b319af10f86102615d07ec83fa9b80de  qt-vsaddin-msbuild-3.2.0-rev.43.zip
+563dea0421ef2db75af22db9cf41fbf8  qt-vsaddin-msbuild-3.2.0-rev.47.zip
